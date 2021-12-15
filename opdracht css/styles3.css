@@ -1,0 +1,14 @@
+
+
+body { 
+    color: blue;
+}
+.black-border {
+    border: 5px solid black;
+}
+
+#green-background {
+    background-color: green;
+}#greenground {
+    background-color: rgb(158, 236, 158);
+}
